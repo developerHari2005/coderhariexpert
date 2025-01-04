@@ -1,4 +1,4 @@
-# Hi there, I'm coderhariexpert! 👋
+# Hi there, I'm Hari 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and technology. Here's a bit about me:
 
