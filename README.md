@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything related to JavaScript, Python, and web development.
 - 📫 How to reach me: [coderhariexpert@example.com](mailto:coderhariexpert@example.com)
-- 😄 Pronouns: they/them
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
 
 ## 🛠️ Languages and Tools
